@@ -93,7 +93,7 @@ function ChristmasMusicPlayer() {
     <div className="music-player">
       <audio
         ref={audioRef}
-        src="/christmas-music.mp3"
+        src="/Christmas-wishes/christmas-music.mp3"
         loop
         onPlay={() => setIsPlaying(true)}
         onPause={() => setIsPlaying(false)}
@@ -275,7 +275,7 @@ function App() {
         <div className="hero-decoration">
         <div className="santa-flight">
           <img
-            src="/santa-sleigh.png"
+            src="/Christmas-wishes/santa-sleigh.png"
             alt="Santa Claus flying with reindeer in a Christmas sleigh"
           />
         </div>
