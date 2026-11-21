@@ -275,7 +275,7 @@ function App() {
         <div className="hero-decoration">
         <div className="santa-flight">
           <img
-            src="/santa-sleigh.png"
+            src="{`${import.meta.env.BASE_URL}santa-sleigh.png"
             alt="Santa Claus flying with reindeer in a Christmas sleigh"
           />
         </div>
