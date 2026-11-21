@@ -1,16 +1,51 @@
-# React + Vite
+# 🎄 Christmas Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A festive Christmas-themed website built using React.js, JavaScript, HTML5, CSS3, and Vite.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Beautiful Christmas-themed design
+- Responsive layout for mobile and desktop
+- Festive animations and interactive elements
+- Christmas decorations and visual effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git and GitHub
 
-## React Compiler
+## 🚀 Run Locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clone the repository:
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/sheripeter/Christmas-Website.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Navigate to the project:
+
+```bash
+cd Christmas-Website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+## 🌐 Live Demo
+
+[View Christmas Website](https://sheripeter.github.io/Christmas-Website/)
+
+## 👩‍💻 Author
+
+Sheri Peter
